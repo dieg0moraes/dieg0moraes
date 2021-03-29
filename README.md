@@ -6,18 +6,19 @@ class Diego:
         self.linkedIn = 'dieg0moraes'
         self.dev_stack = {
             frontend: 'ReactJS',
-            backend: 'python',
+            backend: 'python🐍',
             my_os: 'Arch', # Always changing
-            database: 'SQL'
+            database: 'SQL',
+            editor: 'neovim📃'
         }
     
     def current_work(self):
         return 'ArkanoSoft'
     
     def current_project(self):
-        return 'React native mobile app comming soon ✨'
+        return 'React Native mobile app comming soon ✨'
     
     def do_something(self):
-        return 'I can solve the Rubiks cube'
+        return 'I can solve the Rubik's Cube🤓'
     
 ```

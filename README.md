@@ -19,6 +19,6 @@ class Diego:
         return 'React Native mobile app comming soon ✨'
     
     def do_something(self):
-        return 'I can solve the Rubik's Cube🤓'
+        return 'I can solve the Rubik\'s Cube🤓'
     
 ```

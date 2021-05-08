@@ -12,9 +12,6 @@ class Diego:
             editor: 'neovim📃'
         }
     
-    def current_work(self):
-        return 'ArkanoSoft'
-    
     def current_project(self):
         return 'React Native mobile app comming soon ✨'
     

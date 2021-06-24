@@ -7,7 +7,6 @@ class Diego:
         self.dev_stack = {
             frontend: 'ReactJS',
             backend: 'python🐍',
-            my_os: 'Arch', # Always changing
             database: 'SQL',
             editor: 'neovim📃'
         }

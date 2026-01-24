@@ -56,6 +56,7 @@ $ ./connect.sh
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/techbydie.dev-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://techbydie.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dieg0moraes)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dieg0moraes)
 

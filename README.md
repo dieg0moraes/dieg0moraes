@@ -30,8 +30,8 @@ $ ls tech/
 
 ```
 backend/        →  Java · Go · Python
-data/           →  PostgreSQL · Redis · Kafka
-cloud/          →  AWS · Docker · Kubernetes
+data/           →  PostgreSQL · Redis
+cloud/          →  AWS · Docker
 tools/          →  Git · Neovim · Linux
 ```
 
